@@ -1,2 +1,2 @@
-# Assignment06
+# ntroToProg-Python-Mod06
 Intro to Programming: Python assignment06
